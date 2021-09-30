@@ -3,7 +3,6 @@
 - 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m working on Html,Css, and Javascript.
-- 📫 
 
 <!---
 PulkitRaval/PulkitRaval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
