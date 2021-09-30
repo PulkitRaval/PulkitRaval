@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @PulkitRaval
+- 👨‍🎓 I have recently graduated in Master of Science (Computer Application & Information Technology) .
 - 👀 I’m interested in Front-end development.
 - 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m working on Html,Css, and Javascript.
+- 📫 
 
 <!---
 PulkitRaval/PulkitRaval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
